@@ -1,0 +1,21 @@
+[
+ {
+ "action": "talk",
+ "text": "Please wait while we
+connect your call"
+ },
+ {
+ "action": "connect",
+ "eventUrl": ["http://
+example.com/event"],
+ "from": "6531636118",
+ "endpoint": [
+ {
+ "type":
+"phone",
+ "number":
+"6585876463"
+ }
+ ]
+ }
+]
