@@ -6,7 +6,7 @@
     {
         "action": "connect",
         "eventUrl": [
-            "http://example.com/event"
+            "http://aea44ebd.ngrok.io/event"
         ],
         "from": "6531636118",
         "endpoint": [
